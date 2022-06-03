@@ -1,5 +1,3 @@
-package com.akilesh;
-
 public class MinutesToYearsDaysCalculator {
 
     public static void printYearsAndDays(long minutes) {
